@@ -5,8 +5,7 @@
 
 
 # SUBMITTED BY
-# 1.RISHABH SEN
-# 2.
+# 1.Preeti Tikku
 Important insights from the IPL 2023 dashboard
 Analyzing tournament data is crucial to gaining insights that can guide strategic decision-making for teams. With data analysis, we can unearth a range of data insights, from team-level and individual player performances to examining trends in viewership, revenue, and the overall health of the competition. These insights can be useful to coaches and players alike, helping them refine their tactics and improve their performances.
 
